@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Container,Button } from 'react-bootstrap';
 import { useHistory } from 'react-router';
-// import Footer from '../Footer/Footer';
 import HomeCourse from '../HomeCourse/HomeCourse';
 import './Home.css'
 
