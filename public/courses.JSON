@@ -41,10 +41,26 @@
     },
     {
       "key": 6,
-      "name": "SEO",
-      "fee": 2000,
-      "img": "https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "details": "Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic (known as 'natural' or 'organic' results) rather than direct traffic or paid traffic.",
-      "duration": "2.5 Months"
+      "name": "Spoken Spanish",
+      "fee": 1900,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmV64_kyWtjnh-Y69JzJyQn5STfHS2MMnEWw&usqp=CAU",
+      "details": "Spanish is a part of the Ibero-Romance group of languages of the Indo-European language family, which evolved from several dialects of Vulgar Latin in Iberia after the collapse of the Western Roman Empire in the 5th century. Spanish is easy to say for italian",
+      "duration": "2.6 Months"
+    },
+    {
+      "key": 7,
+      "name": "Spoken Russian",
+      "fee": 1800,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0EkPSDLHgBHW-x4GPpjL8qnvZVKzCZB86aA&usqp=CAU",
+      "details": "Russian (русский язык, tr. russkiy yazyk) is an East Slavic language native to the Russians in Eastern Europe. It is a part of the Indo-European language family, and is one of four living East Slavic languages, and also part of the larger Balto-Slavic branch. ",
+      "duration": "3.5 Months"
+    },
+    {
+      "key": 8,
+      "name": "Digital Marketing",
+      "fee": 1600,
+      "img": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/thumbnail/lead/news/2427717_free%20digital%20marketing%20course.jpg",
+      "details": "Digital marketing is the best & trending way of marketing nowadays. It is all about reaching customers via various digital channels like search engines, social media, email, and many more. Digital Marketing course content will make sure you master the art of online marketing by reaching your target audiences in a more powerful and accurate way through several digital channels. ",
+      "duration": "2 Months"
     }
   ]

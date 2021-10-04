@@ -1,4 +1,4 @@
-# Ideal Leaning
+# Ideal Learning
 
 Click to visit our Website [Ideal Learning](https://ideal-learning.netlify.app/).
 
