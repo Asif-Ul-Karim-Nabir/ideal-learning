@@ -2,3 +2,21 @@
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
+@media only screen and (max-width: 600px) {
+  .home-courses {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media only screen and (min-width: 600px) {
+  .home-courses {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media only screen and (min-width: 772px) {
+  .home-courses {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

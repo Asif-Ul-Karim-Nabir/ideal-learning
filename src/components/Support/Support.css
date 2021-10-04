@@ -1,7 +1,37 @@
 .support-container {
   background-color: aquamarine;
-  height: 545px;
+}
+.support-container h2 {
+  padding-top: 150px;
 }
 .support-img {
+  padding-top: 30px;
+  padding-bottom: 120px;
   width: 90%;
+  height: 100%;
+}
+@media only screen and (max-width: 600px) {
+  .support-container h2 {
+    padding-top: 40px;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .support-container h2 {
+    padding-top: 60px;
+  }
+}
+@media only screen and (min-width: 772px) {
+  .support-container h2 {
+    padding-top: 70px;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .support-container h2 {
+    padding-top: 100px;
+  }
+}
+@media only screen and (min-width: 1050px) {
+  .support-container h2 {
+    padding-top: 120px;
+  }
 }

@@ -9,7 +9,7 @@ const Support = () => {
             <Container fluid>
             <Row>
             <Col xs={12} md={6} lg={6}>
-                <h2 className="mt-5">Get Exciting Customer Support from our Expert Professional Support Team!</h2>
+                <h2>Get Exciting Customer Support from our Expert Professional Support Team!</h2>
                 <p>We take our customer's queries seriously and try level best to offer the best solutions. We follow Envato’s standard support policy for providing item support for any Envato items. For EnvyTheme.com, we follow EnvyTheme’s standard support policy.
                 </p>
             </Col>
