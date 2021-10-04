@@ -1,0 +1,50 @@
+[
+    {
+      "key": 1,
+      "name": "Learning English",
+      "fee": 4000,
+      "img": "https://media.istockphoto.com/photos/english-word-concept-picture-id1089421000?b=1&k=20&m=1089421000&s=170667a&w=0&h=lN5SMyAnJ_7jMbu3Y0Dd7Nxi6ifM79N_YaqU7mG7fyM=",
+      "details": "Study a Balance of the Four Key Skills - listening, speaking, reading, writing. Most students want to communicate better in English. If this is one of your goals, it is important to study a balance of the four major skills.",
+      "duration": "3 Months"
+    },
+    {
+      "key": 2,
+      "name": "Spoken Arabic",
+      "fee": 5000,
+      "img": "https://image.shutterstock.com/image-photo/hand-writing-on-blackboard-language-260nw-480440053.jpg",
+      "details": "Arabic is the language of the Qurʾān (or Koran, the sacred book of Islam) and the religious language of all Muslims. Literary Arabic, usually called Classical Arabic, is essentially the form of the language found in the Qurʾān.",
+      "duration": "4 Months"
+    },
+    {
+      "key": 3,
+      "name": "Python Course",
+      "fee": 3500,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV295IYj9P72IKvcbgbC4VgZKsIIU0pu2fGA&usqp=CAU",
+      "details": "Python is a versatile computer programming language that is highly suitable for tasks ranging from scripts to large systems. The programming course highlights best practices, including unit testing, version control, and optional idioms. Any student can pursue the Python programming course.",
+      "duration": "5-6 Months"
+    },
+    {
+      "key": 4,
+      "name": "Web Development",
+      "fee": 3000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9KPP5RurBKGlX1UeN6ttpcZXIbmruWqy52QOxotKpttKOiifevxikDOW2AU7NWLvcbtQ&usqp=CAU",
+      "details": "Web development refers in general to the tasks associated with developing websites for hosting via intranet or internet. The web development process includes web design, web content development, client-side/server-side scripting and network security configuration, among other tasks.",
+      "duration": "4-6 Months"
+    },
+    {
+      "key": 5,
+      "name": "SEO",
+      "fee": 2000,
+      "img": "https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "details": "Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic (known as 'natural' or 'organic' results) rather than direct traffic or paid traffic.",
+      "duration": "2.5 Months"
+    },
+    {
+      "key": 6,
+      "name": "SEO",
+      "fee": 2000,
+      "img": "https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "details": "Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic (known as 'natural' or 'organic' results) rather than direct traffic or paid traffic.",
+      "duration": "2.5 Months"
+    }
+  ]
